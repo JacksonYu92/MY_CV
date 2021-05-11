@@ -25,3 +25,10 @@ img {
 .workdate {
   text-align: right;
 }
+
+html, body {
+    width: 100%;
+}
+table {
+    margin: 0 auto;
+}
